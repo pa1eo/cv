@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.info {
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: gray;
+}
+
+.div-title {
+    color: gray;
+    font-size: 18px;
+}
+
+.skill-item {
+    list-style: circle;
+}
+
+.occupations a {
+    color: blue;
+}
+
+.occupations .time {
+    font-size: 80%;
+}
+.image {
+    width: 600px;
+}
